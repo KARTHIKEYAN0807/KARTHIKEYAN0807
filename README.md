@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 **KARTHIKEYAN0807/KARTHIKEYAN0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
@@ -34,4 +31,3 @@ A passionate individual who always thrives to work on end to end products which 
 [![](https://visitcount.itsvg.in/api?id=KARTHIKEYAN0807&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
