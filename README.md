@@ -1,5 +1,3 @@
-**KARTHIKEYAN0807/KARTHIKEYAN0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.<br><br> 
 
