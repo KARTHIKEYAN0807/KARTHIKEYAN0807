@@ -1,9 +1,9 @@
 # 💫 About Me:
 A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.<br><br> 
 
-⚡ Building responsive website front end using React-Redux<br><br>
-⚡ Creating application backend in Node and Express<br><br>
-⚡ Creating Database in mysql and mongodb
+⚡ <br><br>
+⚡ <br><br>
+⚡ 
 
 
 ## 🌐 Socials:
