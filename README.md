@@ -1,90 +1,68 @@
-# Hi there, I'm Karthikeyan S 👋
+# Karthikeyan S
 
-I'm a full-stack developer focused on building practical web applications and backend systems. My work spans modern frontend development, API design, authentication systems, database-driven applications, and recent AI-powered document workflows.
+Full-stack developer building production-oriented web applications, backend systems, and AI-powered workflows.
 
-## About Me
-- Building end-to-end applications with React, Next.js, Node.js, Express, MongoDB, and SQL
-- Interested in backend architecture, authentication, deployment, and developer tooling
-- Exploring AI applications, retrieval-augmented generation (RAG), and multimodal systems
-- Focused on writing scalable, maintainable, and production-oriented code
+I work across the stack with a strong focus on application architecture, authentication, APIs, databases, deployment, and practical product delivery.
 
-## Featured Projects
+## What I work on
+- Full-stack applications with React, Next.js, Node.js, Express, MongoDB, SQL, and Supabase
+- Secure backend systems with authentication, session management, and API design
+- AI-powered products using retrieval-augmented generation (RAG), vector search, and multimodal pipelines
+- Deployment workflows using Netlify, Render, Railway, Docker, and GitHub
 
-### 1. Local Multimodal RAG System
-A privacy-first AI document intelligence platform that processes PDFs, DOCX, text files, images, and URLs, then answers questions grounded in uploaded content.
+## Selected Projects
 
-**Highlights:**
-- Built with Next.js, React, TypeScript, Tailwind CSS, Supabase, pgvector, and Ollama
-- Supports multimodal ingestion, hybrid retrieval, streaming chat, source citations, and evaluation workflows
-- Includes vector search, keyword search, reciprocal rank fusion, and local model inference
+### Multimodal RAG System
+Privacy-first document intelligence platform for querying PDFs, DOCX files, text, images, and URLs using locally-run AI models.
 
-🔗 Repository: [MULTIMODEL-RAG-SYSTEM](https://github.com/KARTHIKEYAN0807/MULTIMODEL-RAG-SYSTEM)
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Supabase, pgvector, Ollama  
+**Highlights:** Hybrid retrieval, multimodal ingestion, streaming chat, citation-aware responses, evaluation pipeline
 
-### 2. Employee Management System
-A full-stack employee management platform with authentication, protected routes, employee CRUD operations, and profile image handling.
+[View Repository](https://github.com/KARTHIKEYAN0807/MULTIMODEL-RAG-SYSTEM)
 
-**Highlights:**
-- Frontend built with React, React Router, Axios, and Bootstrap
-- Backend built with Node.js, Express.js, MongoDB, Mongoose, and JWT authentication
-- Covers employee creation, editing, deletion, listing, and secure access control
+### Employee Management System
+Full-stack employee management application with authentication, protected routes, employee CRUD, and image handling.
 
-🔗 Frontend: [Employee-Management-System-frontend](https://github.com/KARTHIKEYAN0807/Employee-Management-System-frontend)
+**Stack:** React, React Router, Axios, Bootstrap, Node.js, Express.js, MongoDB, Mongoose, JWT  
+**Highlights:** Secure login, employee operations, file upload workflow, practical admin dashboard architecture
 
-### 3. Survey / Feedback Application
-A survey platform that allows authenticated users to create surveys, submit responses, and view analytics.
+[Frontend Repository](https://github.com/KARTHIKEYAN0807/Employee-Management-System-frontend)
 
-**Highlights:**
-- Built with React, Node.js, Express.js, MongoDB, JWT, Bootstrap, and Chart.js
-- Includes survey creation, response collection, protected routes, and chart-based analytics
+### Survey / Feedback Application
+Survey platform for creating forms, collecting responses, and visualizing analytics.
 
-🔗 Repository: [survey-feedback-app](https://github.com/KARTHIKEYAN0807/survey-feedback-app)
+**Stack:** React, Node.js, Express.js, MongoDB, JWT, Bootstrap, Chart.js  
+**Highlights:** Authenticated survey creation, response analytics, chart-based insights, full-stack workflow
 
-### 4. Authentication & Profile Management System
-A backend-oriented project demonstrating secure authentication, session handling, and multi-database integration.
+[View Repository](https://github.com/KARTHIKEYAN0807/survey-feedback-app)
 
-**Highlights:**
-- Built with PHP, MySQL, MongoDB, Redis, Docker, and AJAX/jQuery frontend integration
-- Implements registration, login, profile management, Redis-backed sessions, and caching
-- Designed around production-style separation of concerns
+### Authentication & Profile Management System
+Backend-focused system showcasing secure authentication and multi-database integration.
 
-🔗 Backend: [auth-system-backend](https://github.com/KARTHIKEYAN0807/auth-system-backend)
+**Stack:** PHP, MySQL, MongoDB, Redis, Docker, AJAX/jQuery  
+**Highlights:** Session handling with Redis, profile management, caching, separation of concerns, cloud deployment
 
-## Tech Stack
-**Frontend**
+[Backend Repository](https://github.com/KARTHIKEYAN0807/auth-system-backend)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+## Core Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=KARTHIKEYAN0807&show_icons=true&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHIKEYAN0807&layout=compact&theme=tokyonight&hide_border=true)
 
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyansnsce)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heart___slayer)
+## Connect
+[LinkedIn](https://www.linkedin.com/in/karthikeyansnsce)
 
 ---
-I’m continuously improving my skills through real-world projects in full-stack development, backend engineering, and AI-powered applications.
+Focused on building scalable software with strong backend fundamentals and real-world product thinking.
