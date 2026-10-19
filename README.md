@@ -1,15 +1,25 @@
 # Karthikeyan S
 
-Full-stack developer building production-oriented web applications, backend systems, and AI-powered workflows.
+Full-stack & AI engineer building production web apps, mobile apps, backend systems, and LLM-powered products.
 
-I work across the stack with a strong focus on application architecture, authentication, APIs, databases, deployment, and practical product delivery.
+I work across the stack with a strong focus on application architecture, APIs, retrieval pipelines, self-hosted LLM infrastructure, deployment, and practical product delivery.
+
+## Currently
+**Project Associate @ ITEL Foundation** (Immersive Technology and Entrepreneurship Labs) — building AI, EdTech, and FinTech products for clients, from LLM backends to cross-platform mobile apps. Joined as an intern; promoted to Project Associate in June 2026.
 
 ## What I work on
-- Full-stack applications with React, Next.js, Node.js, Express, MongoDB, SQL, and Supabase
-- Secure backend systems with authentication, session management, and API design
-- AI-powered products using retrieval-augmented generation (RAG), vector search, multimodal pipelines, and LLM integrations
-- Modern TypeScript-based applications with scalable frontend and backend architecture
-- Deployment workflows using Netlify, Render, Railway, Docker, GitHub Actions, and cloud platforms
+- AI products: retrieval-augmented generation (RAG), vector search (Qdrant, pgvector), multimodal pipelines, and self-hosted LLMs served with vLLM and Ollama
+- Backend systems in Python/FastAPI and Node.js/Express/TypeScript, with auth, session management, and API design
+- Cross-platform mobile apps in Flutter (Riverpod, Hive, Dio), including multilingual and real-time voice features
+- Full-stack web apps with React, Next.js, Supabase, MongoDB, and PostgreSQL
+- Cloud deployment on AWS EC2 with Nginx, Certbot, Docker, and GitHub Actions CI/CD
+
+## Professional Work (ITEL Foundation)
+Client projects — source code is private.
+
+- **RAG assistant** — Python/FastAPI backend with Qdrant vector search, Ollama embeddings, and PostgreSQL; deployed to AWS EC2 through GitHub Actions; wrote the pipeline documentation.
+- **Multilingual FinTech app** — Flutter app in English, Tamil, and Hindi with voice input, a self-hosted Gemma LLM backend (vLLM), and auth/KYC/loan API integrations; led a full UI redesign and a custom design system, and optimized APK builds.
+- **Language-learning app** — Duolingo-style Flutter app with real-time voice tutoring over LiveKit, an Express/TypeScript/Prisma backend on PostgreSQL, and LLMs via Groq (dev) and vLLM (production).
 
 ## Selected Public Projects
 
@@ -52,6 +62,8 @@ Backend-focused system showcasing secure authentication and multi-database integ
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -61,6 +73,10 @@ Backend-focused system showcasing secure authentication and multi-database integ
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+**Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=flat-square&logo=flutter&logoColor=white)
+
 **Backend & Databases**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -69,9 +85,16 @@ Backend-focused system showcasing secure authentication and multi-database integ
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 
 **AI / Tooling / Deployment**  
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=flat-square&logo=livekit&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
