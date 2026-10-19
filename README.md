@@ -60,11 +60,6 @@ Backend-focused system showcasing secure authentication and multi-database integ
 
 [Backend Repository](https://github.com/KARTHIKEYAN0807/auth-system-backend)
 
-## Recently Active
-<!-- RECENT-REPOS:START -->
-<sub>Refreshes automatically every Monday.</sub>
-<!-- RECENT-REPOS:END -->
-
 ## Tech Stack
 
 **Languages & Core**  
