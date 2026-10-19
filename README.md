@@ -19,7 +19,12 @@ Client projects — source code is private.
 
 - **RAG assistant** — Python/FastAPI backend with Qdrant vector search, Ollama embeddings, and PostgreSQL; deployed to AWS EC2 through GitHub Actions; wrote the pipeline documentation.
 - **Multilingual FinTech app** — Flutter app in English, Tamil, and Hindi with voice input, a self-hosted Gemma LLM backend (vLLM), and auth/KYC/loan API integrations; led a full UI redesign and a custom design system, and optimized APK builds.
-- **Language-learning app** — Duolingo-style Flutter app with real-time voice tutoring over LiveKit, an Express/TypeScript/Prisma backend on PostgreSQL, and LLMs via Groq (dev) and vLLM (production).
+
+## Currently Building
+**LinguaFlow** — a Duolingo-style language-learning app with real-time voice tutoring.
+
+**Stack:** Flutter, Riverpod, Hive, Express, TypeScript, Prisma, PostgreSQL, Better Auth, LiveKit  
+**Highlights:** Real-time voice sessions with voice activity detection, LLM-driven lessons (Groq in development, self-hosted vLLM in production)
 
 ## Selected Public Projects
 
@@ -75,7 +80,6 @@ Backend-focused system showcasing secure authentication and multi-database integ
 
 **Mobile**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00B4AB?style=flat-square&logo=flutter&logoColor=white)
 
 **Backend & Databases**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -103,10 +107,6 @@ Backend-focused system showcasing secure authentication and multi-database integ
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=KARTHIKEYAN0807&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHIKEYAN0807&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/karthikeyansnsce)
